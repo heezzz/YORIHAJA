@@ -32,14 +32,14 @@
 	 }else if(result == 0){
 		 %>
 		  <script type="text/javascript">
-		     alert(" 비밀번호가 올바르지 않습니다. ");
+		     alert(" 비밀번호가 올바르지 않습니다.");
 		     history.back();
 		  </script>
 		 <%
 	 }else{
 		 %>
 		  <script type="text/javascript">
-		     alert(" 게시글이 존재하지 않습니다. ");
+		     alert(" 게시글이 존재하지 않습니다.");
 		     history.back();
 		  </script>
 		 <%
