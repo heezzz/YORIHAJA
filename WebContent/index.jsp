@@ -3,6 +3,5 @@
 
     <%
     	// 프로젝트 시작지점
-    	response.sendRedirect("main/main.jsp");
-    
+    	response.sendRedirect("main/main.jsp");    
     %>
